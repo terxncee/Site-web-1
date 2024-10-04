@@ -1,0 +1,108 @@
+*{margin: 0%;
+    padding: 0%;
+    width: 100%;
+
+}
+
+.Text {
+    font-family: "Indie Flower", cursive;
+    font-weight: 800px;
+    font-style: normal;
+    margin-bottom: 500px;
+    padding: 10px 20px 10px 20px;
+    background-color: rgb(0, 0, 0);
+    text-align: 500px;
+  color: rgb(251, 251, 250);
+  padding-top: 25px;
+  }
+  .gif2{
+    width: 60px;
+    text-align: 20px;
+    margin-top: -1500px;
+    margin-bottom: 525px;
+}
+ .Text2{
+    color: rgb(0, 0, 0);
+    margin-bottom: 100px;
+    font-size: 18.5px;
+    font-style: oblique;
+    margin-top: -180px ;
+    text-align: center;
+    border: solid;
+
+ }
+.img1{
+    width: 192px;
+    margin-top: -1500px;
+}
+.img2{
+    width: 194px;
+    margin-top: -1500px;
+    margin-left: 170px
+}
+.img3{
+    width: 203px;
+    margin-top:-500px;
+    margin-left: 183px;
+}
+.img4{
+    width: 213px;
+    margin-top: -210px; 
+    margin-left: 1212px;
+    margin-bottom: 18px;
+}
+.gif1{
+    width: 400px;
+    margin-top: -800px;
+    margin-bottom: 250px;
+    margin-left: 500px;
+}
+
+.pics{
+      margin-top: 300px;    
+      background-size: 1000px;
+}
+
+.plugg{
+
+      padding-top: 250px;
+      margin-top: 50px;
+
+}
+
+.text3{
+    color: rgb(198, 166, 86);
+    font-style: inherit;
+    font-size:  14px;
+    text-align: center;
+
+}
+
+
+.presentation-contenu{
+    display: flex;
+}
+
+.bloc1{
+    width:calc(100%/3);
+    height: 100%;
+}
+
+.background{
+    background-image: url(osama.png);
+}
+
+.text4{ color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-style: oblique ;
+    margin-top: 20px;
+    text-align: center;
+    border: solid;
+    background-color: black;
+
+
+}
+
+.background1{
+    background-image: url(osamasonwall.png);
+}
